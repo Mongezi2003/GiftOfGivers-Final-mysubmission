@@ -16,7 +16,7 @@ This is a full-stack mobile application prototype for the Gift of the Givers fou
 ## Demo Video
 Please watch the demonstration of the app functionality, API connection, and database verification:
 - **Primary (Google Drive):** [Watch Demo Video](https://drive.google.com/file/d/1qJGEuD88_eV6bMxO2lBFbRdvgeTQ18Do/view?usp=drivesdk)
-- **Backup (YouTube):** [Watch on YouTube](https://youtube.com/shorts/n37bfJR0YKE?feature=share)
+- **Backup (YouTube):** [https://youtube.com/shorts/0x6g5lrD64U?feature=share)
 
 ## Technologies Used
 - **Frontend:** Android (Kotlin, XML Layouts)
