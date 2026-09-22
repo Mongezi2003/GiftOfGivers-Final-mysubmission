@@ -36,5 +36,4 @@ I utilized AI assistance during development to:
 - Write and optimize the Kotlin `HttpURLConnection` code for API communication.
 - Troubleshoot Gradle build and disk space configuration issues.
 
-## Screenshots
-*(See the uploaded image files in this repository for visual reference of the Login Screen and Success State).*
+
